@@ -13,22 +13,14 @@ const Navbar = ()=>{
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item"><a class= "nav-link" href="https://google.com"> Home </a></li>
                     <li className="nav-item"><a class= "nav-link" href="https://google.com"> About me </a></li>
-                    
                     <li className="nav-item"><a class="nav-link" href="https://facebook.com"> Projects </a></li>
-                    <li className="nav-item dropdown">
-                        <a className="nav-link  dropdown-toggle" href="https://google.com" data-bs-toggle="dropdown"> More </a>
-                        <ul className="dropdown-menu dropdown-menu-right">
-                            <li><a className="dropdown-item" href="https://google.com"> View Resume</a></li>
-                            <li><a className="dropdown-item" href="https://google.com"> Get in Touch</a></li>
-                        </ul>
-                    </li>
+                    <li className="nav-item"><a class="nav-link" href="https://facebook.com"> Get in touch </a></li>
+                    
                 </ul>
             </div> 
          
     </nav>
-    
 
-    
     )
 }
 
