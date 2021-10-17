@@ -45,7 +45,7 @@ $colorSecundaryDarker : #9b59b6;
 	cursor: pointer;
 	
 	&:hover {
-		transform: rotatey(30deg) translatex(0px) translatey(0px);
+		transform: rotatey(20deg) translatex(0px) translatey(0px);
 	}
 
 	&.open {
@@ -77,10 +77,8 @@ $colorSecundaryDarker : #9b59b6;
 		.title {
 			width: 100%;
 			position: absolute;
-			top: 50%;
-			left: 0;
 			text-transform: uppercase;
-			font-size: 12px;
+			font-size: 20px;
 			margin: 15px 0 0 0;
 			text-align: center;
 			color: $colorMain;
