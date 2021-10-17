@@ -9,7 +9,7 @@ const Hero =()=>{
                 I am a <b>Software Engineer</b> with the zeal to learn and grow.
                 Currently working as a Software Engineer at Incture. I am well versed in ReactJS
                 and an aspiring MERN Stack developer.
-                I also volunteer as a developer for the Kerala Police Cyberdome helping them to
+                I also work as a volunteer as a developer for the Kerala Police Cyberdome helping them to
                 build one of my major projects into their app called BeSafe so as to make it publically available.
                 I have a worked with many projects both individualy and as a team.
         </div>

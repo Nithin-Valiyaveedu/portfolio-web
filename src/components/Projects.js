@@ -11,7 +11,8 @@ const Projects=()=>{
 	
 	<div class="element-card">
 		<div class="front-facing">
-			<h1 class="">Phishector</h1>
+			<h1 class="title">Phishector</h1>
+            
 		</div>
 		<div class="back-facing">
 			<p>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</p>
@@ -21,7 +22,7 @@ const Projects=()=>{
 	
 	<div class="element-card">
 		<div class="front-facing">
-			<h1 class="">Covkart</h1>
+			<h1 class="title">Covkart</h1>
 		</div>
 		<div class="back-facing">
 			<p>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</p>
@@ -31,7 +32,7 @@ const Projects=()=>{
 	
 	<div class="element-card">
 		<div class="front-facing">
-			<h1 class="">Digital Wallet</h1>
+			<h1 class="title">Digital Wallet</h1>
 		</div>
 		<div class="back-facing">
 			<p>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</p>
@@ -41,7 +42,7 @@ const Projects=()=>{
 	
 	<div class="element-card">
 		<div class="front-facing">
-			<h1 class="">Digi Greem</h1>
+			<h1 class="title">Digi Green</h1>
 		</div>
 		<div class="back-facing">
 			<p>Copper is a chemical element with symbol Cu (from Latin: cuprum) and atomic number 29. It is a soft, malleable, and ductile metal with very high thermal and electrical conductivity.</p>

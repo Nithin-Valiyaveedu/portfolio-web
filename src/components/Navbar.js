@@ -1,7 +1,7 @@
 import React from "react";
 //import "../App.css"
 
-const Navbar = ()=>{
+const Navbar=()=>{
     return(
     <nav id="navbar_top" className="navbar navbar-expand-lg navbar-dark bg-primary">
        
